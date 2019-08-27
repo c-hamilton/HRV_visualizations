@@ -1,5 +1,5 @@
 # human_dataviz
-Quanified self visualizations <3
+Quanified self visualization
 
 Heart rate visualizations from BMED project
 
